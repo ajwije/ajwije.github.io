@@ -1,0 +1,12 @@
+- menu_name: "Thank You"
+
+- name: "Built using Feeling Responsive"
+  url: "https://phlow.github.io/feeling-responsive/"
+  class: "network-phlow"
+  title: "Built using Feeling Responsive"
+
+- name: "Images from Unsplash"
+  url: "http://unsplash.com/"
+  class: "rss-link"
+  title: "Images from Unsplash"
+

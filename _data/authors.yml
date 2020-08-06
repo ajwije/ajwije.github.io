@@ -1,0 +1,19 @@
+# Author details
+#
+# 1. Edit information below
+# 2. Change site author in config.yml
+# 3. Change default post/page authors in config.yml
+#
+# Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
+Ravindu Wijeratne: # replace this with your info
+  name: "Ravindu Wijeratne"
+  siterole: "initial site configuration"
+  uri: https://raviwije.netlify.app/
+  email:
+  twitter: 
+  
+Asela Wijeratne:
+  name: "Asela Wijeratne"
+  siterole: "owner"
+  uri: 
+# you can add more authors here
