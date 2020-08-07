@@ -8,9 +8,8 @@ layout: frontpage
 header:
     image_fullwidth: dna.png
 
-title: "Header With Text"
-subheadline: "Headers With Style"
-teaser: "The Frontpage"
+title: "WijeratneLab"
+teaser: "WijeratneLab"
 
     
 #
