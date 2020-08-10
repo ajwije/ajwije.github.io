@@ -11,6 +11,22 @@ header:
 title: "WijeratneLab"
 teaser: "WijeratneLab"
 
+widget1:
+  title: "News"
+  url: '/blog/'
+  image: soybean.jpg
+  text: 'You can find announcements and important news here'
+widget2:
+  title: "Research"
+  url: '/research/'
+  image: field.jpeg
+  text: 'slfdlajfs sdjf lasjf lsdaj saj ljfdslk jjfldjhgsldgnurwnvlkrnvsb fsd mcvxm,nz v'
+widget3:
+  title: "Team"
+  url: '/team/'
+  image: Portrait_Placeholder.png
+  text: 'dslfjdajsg djfld jfldsjfkjireorbn b0ebno nbreoianbland bohbrvdnd osdvdnadfnca vdlnv'
+
     
 #
 # Use the call for action to show a button on the frontpage
