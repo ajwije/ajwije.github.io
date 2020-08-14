@@ -8,13 +8,13 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Jekyll Website'
+title: 'WijeratneLAB'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'A website using Jekyll'
+slogan: 'A website for WijeratneLAB'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: '»Jekyll Website« A Jekyll website'
+description: '»The official website of WijeratneLAB'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
