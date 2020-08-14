@@ -18,7 +18,7 @@ permalink: "/publications/"
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
 ## 2020
-Authors, Authors, Authors; **Title** links
+Milad, M., Olbricht, G. R., Wijeratne, A. J.* Testing Differentially Methylated Regions through Functional Principal Component Analysis (submitted to Journal of Applied Statistics).  *Third author. 
 
 ## 2019
 
