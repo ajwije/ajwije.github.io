@@ -53,7 +53,7 @@ homepage: true
     <img src="/images/soybean.jpg">
   </div>
 </div>
-
+{% include alert warning='Work in progress.' %}
 ## About Us
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Lectus quam id leo in vitae turpis. Sed sed risus pretium quam vulputate dignissim suspendisse in est. Lectus nulla at volutpat diam ut.
